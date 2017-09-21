@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Open Connections</title>
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+    <script>
+    $(document).ready(function () {
+        $('#myform').on('submit', function(e) {
+            e.preventDefault();
+            $.ajax({
+                url : "/cmd",
+                type: "GET",
+                data: $(this).serialize(),
+                success: function (data) {
+                    $("#form_output").html(data);
+                },
+                error: function (jXHR, textStatus, errorThrown) {
+                    alert(errorThrown);
+                }
+            });
+        });
+    });
+    </script>
+</head>
+<body>
+    <div style="margin-right: auto; margin-left:auto; margin-top:100px; width:300px;">
+        <form action="/cmd" method="get" id="myform">
+          Command:<br>
+          <input type="text" name="cmd" value=""><br>
+          <input type="submit" value="Submit">
+        </form>
+    </div>
+    <p id="form_output"></p>
+</body>
+</html>

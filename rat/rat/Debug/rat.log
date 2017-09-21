@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6683): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6689): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6695): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6701): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6715): warning C4003: not enough actual parameters for macro 'min'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6715): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6721): warning C4003: not enough actual parameters for macro 'min'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6721): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6727): warning C4003: not enough actual parameters for macro 'min'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6727): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6733): warning C4003: not enough actual parameters for macro 'min'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6733): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6750): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6756): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6762): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6768): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6925): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6931): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6937): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6959): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6965): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(6971): warning C4003: not enough actual parameters for macro 'max'
+c:\users\atanton\documents\visual studio 2015\projects\rat\rat\json.hpp(7184): warning C4003: not enough actual parameters for macro 'max'
+LINK : warning LNK4044: unrecognized option '/lboost'; ignored
+  rat.vcxproj -> C:\Users\atanton\documents\visual studio 2015\Projects\rat\Debug\rat.exe
+  rat.vcxproj -> C:\Users\atanton\documents\visual studio 2015\Projects\rat\Debug\rat.pdb (Full PDB)
